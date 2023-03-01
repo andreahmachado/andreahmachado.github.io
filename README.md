@@ -1,2 +1,2 @@
 # Basic page to test Github Page
-##Projeto basico para tetar o Github Pages.
+##Projeto basico para testar o Github Pages.
